@@ -3,4 +3,4 @@ api_version: go1
 auto_id_policy: default
 default_expiration: 4d 5h
 service: go-meraki-scanner
-version: 0.1
+version: v01
